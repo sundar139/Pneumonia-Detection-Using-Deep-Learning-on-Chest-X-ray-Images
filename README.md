@@ -4,8 +4,8 @@ Developed and implemented a Convolutional Neural Network (CNN) architecture enha
 
 *Key Features:*
 *Utilizes a deep CNN for feature extraction from chest X-ray images. Multiple convolutional layers allow the model to learn hierarchical features.
-*Implemented both channel and spatial attention mechanisms. Helps the model focus on the most relevant features in the image.
-*Implemented a reduce-on-plateau strategy to adjust the learning rate during training.
+-Implemented both channel and spatial attention mechanisms. Helps the model focus on the most relevant features in the image.
++Implemented a reduce-on-plateau strategy to adjust the learning rate during training.
 
 *Benefits:*
 *Can assist medical professionals by providing a quick initial screening of chest X-rays.
