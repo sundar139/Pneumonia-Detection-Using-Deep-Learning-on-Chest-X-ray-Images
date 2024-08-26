@@ -3,7 +3,7 @@
 Developed and implemented a Convolutional Neural Network (CNN) architecture enhanced with Convolutional Block Attention Module (CBAM) to detect pneumonia from chest X-ray images. This project demonstrates the application of deep learning in medical image analysis, specifically for detecting pneumonia from chest X-rays. The use of attention mechanisms (CBAM) aims to improve the model's ability to focus on relevant areas of the X-ray images, potentially leading to better diagnostic accuracy. The code provides a complete pipeline from data loading to model evaluation, making it a comprehensive example of applying deep learning to a real-world medical imaging problem.
 
 *Key Features:*
-*vUtilizes a deep CNN for feature extraction from chest X-ray images. Multiple convolutional layers allow the model to learn hierarchical features.
+* Utilizes a deep CNN for feature extraction from chest X-ray images. Multiple convolutional layers allow the model to learn hierarchical features.
 * Implemented both channel and spatial attention mechanisms. Helps the model focus on the most relevant features in the image.
 * Implemented a reduce-on-plateau strategy to adjust the learning rate during training.
 
